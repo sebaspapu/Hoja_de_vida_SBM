@@ -20,19 +20,15 @@ and open the template in the editor.
         <div id = "Pagina1">
                         
                                   
-            <fieldset>
-                
-                <ul>
-                    <li>Fecha de Nacimiento: 15-10-2000</li>
-                    <li>Cedula: 1002948881</li>
-                    <li>Nacionalidad: Colombiano</li>
-                    <li>Estado Civil: Soltero</li>
-                    
-                </ul>
-                
-                
-            </fieldset>
-            <br/>
+            
+            <div id="marcoGris" >
+
+
+
+
+            </div>
+
+
                                    
             
             
@@ -41,19 +37,14 @@ and open the template in the editor.
         <div id = "Pagina2">
                         
                                   
-            <fieldset>
-                
-                <ul>
-                    <li>Fecha de Nacimiento: 15-10-2000</li>
-                    <li>Cedula: 1002948881</li>
-                    <li>Nacionalidad: Colombiano</li>
-                    <li>Estado Civil: Soltero</li>
-                    
-                </ul>
-                
-                
-            </fieldset>
-            <br/>
+            <div id="marcoGris" >
+
+
+
+
+            </div>
+
+
                                    
             
             
