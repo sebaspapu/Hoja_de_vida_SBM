@@ -24,12 +24,8 @@ and open the template in the editor.
             <div id="marcoGris" >
 
 
-
-
             </div>
-
-
-                                   
+                    
             
             
         </div>
@@ -41,10 +37,7 @@ and open the template in the editor.
 
 
 
-
             </div>
-
-
                                    
             
             
