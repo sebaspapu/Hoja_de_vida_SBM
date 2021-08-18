@@ -47,8 +47,10 @@ background: #ffffff;
 }
 
 
+
 div#marcoGris{
 
+    
     /*border: solid 1px ;*/
     padding: 20px;
     width:     1%;
@@ -61,7 +63,11 @@ div#marcoGris{
     background: #4b4d6f;
     position:relative; top: 1px; left: -20px;;
 
+    
+    
 }
+
+
 
 
 

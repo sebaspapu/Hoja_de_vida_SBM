@@ -33,11 +33,10 @@ and open the template in the editor.
         <div id = "Pagina2">
                         
                                   
-            <div id="marcoGris" >
+        <div id="marcoGris" class="zoom">
 
 
-
-            </div>
+        </div>
                                    
             
             
