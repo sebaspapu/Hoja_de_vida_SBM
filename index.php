@@ -22,7 +22,10 @@ and open the template in the editor.
                                   
             
             <div id="marcoGris" >
-
+            
+            
+		    <img src="img/Foto.jpg" width="110" hspace="110" height="143" vspace="40"'/>		
+	        
 
             </div>
                     
@@ -35,6 +38,7 @@ and open the template in the editor.
                                   
         <div id="marcoGris" class="zoom">
 
+        <img src="img/Foto.jpg" width="110" hspace="110" height="143" vspace="40"'/>		
 
         </div>
                                    
