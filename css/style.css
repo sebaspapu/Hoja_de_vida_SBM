@@ -20,6 +20,8 @@ background: #ffffff;
 
 }
 
+
+
 #Pagina2{
                     
     border: solid 1px ;
@@ -42,7 +44,7 @@ background: #ffffff;
 
 
 
-div#marcoGris{
+marcoGris{
 
     
     /*border: solid 1px ;*/
@@ -64,10 +66,19 @@ div#marcoGris{
 
 
 
+/*apartir de aqui solo lo correspondiente a texto*/
 
 
 body{
     
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d8e0de+0,aebfbc+22,99afab+33,8ea6a2+50,829d98+67,4e5c5a+82,0e0e0e+100;Grey+3D */
 background: #e0dddd; 
+
+
+
 }
+
+h1.titulo-grande {
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+  }
