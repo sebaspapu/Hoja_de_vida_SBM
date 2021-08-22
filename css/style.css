@@ -86,7 +86,7 @@ div#marcoGris{
     text-align:center;
     /* Para la posicion en vertical:*/
     position: relative;
-    top: -27px;
+    top: -29px;
     
 }
 
@@ -94,16 +94,40 @@ div#marcoGris{
 
     height:2px;
     width: 250px;    
-    background-color:#ffffff;
-    
+    background-color:#ffffff;    
 
     position: relative;
-    top: -38px;
+    top: -40px;
     left: 17px;
-    
 
 }
 
+#tituloPerfilProfesional{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -27px;
+    left: 17px;
+
+}
+
+.parrafoPerfilProfesional{
+
+    color: rgb(255, 255, 255);
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    text-align:justify;
+    font-size: 12px;
+
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -27px;
+    left: 17px;
+    
+}
 
 
 
