@@ -67,16 +67,17 @@ div#marcoGris{
 #nombre{
 
     color: rgb(255, 255, 255);
-    font-family: Arial Narrow,Arial,sans-serif;
-    font-size: 35px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 33px;
     text-align: center;
     line-height: 97%;
     letter-spacing: 0.1em;
-    
-    
+    /* en fase de prueba la siguiente:
+    vertical-align:-50px;
+    */
+
 }
 
-h1 { color: #ff4411;  padding-bottom: 10px; }
 
 
 
