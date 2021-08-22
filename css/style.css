@@ -125,10 +125,22 @@ div#marcoGris{
 
     /* Para la posicion en vertical:*/
     position: relative;
-    top: -27px;
+    top: -30px;
     left: 17px;    
 }
 
+#tituloHabilidades{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -17px;
+    left: 17px;
+
+}
 
 
 
