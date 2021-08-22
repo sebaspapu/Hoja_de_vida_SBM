@@ -90,6 +90,20 @@ div#marcoGris{
     
 }
 
+#barraTitulacion{
+
+    height:2px;
+    width: 250px;    
+    background-color:#ffffff;
+    
+
+    position: relative;
+    top: -38px;
+    left: 17px;
+    
+
+}
+
 
 
 
