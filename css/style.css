@@ -72,11 +72,22 @@ div#marcoGris{
     text-align: center;
     line-height: 97%;
     letter-spacing: 0.1em;
-    /* en fase de prueba la siguiente:
-    vertical-align:-50px;
-    */
+    /* en fase de prueba la siguiente:*/
+    vertical-align: -20%;
+    
 
 }
+
+#titulacion{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:center;
+
+    
+}
+
 
 
 
