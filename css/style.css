@@ -161,9 +161,30 @@ div#marcoGris{
     text-align:left;
     /* Para la posicion en vertical:*/
     position: relative;
-    top: -17px;
+    top: -9px;
     left: 17px;
 
+}
+
+.datosPersonales{
+
+    color: rgb(255, 255, 255);
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    text-align:left;
+    font-size: 14px;
+    width: 88%;; 
+
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -10px;
+    left: -23px;  
+
+    line-height: 130%
+
+}
+
+#link1{
+    color: rgb(255, 255, 255);
 }
 
 
