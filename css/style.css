@@ -50,7 +50,7 @@ background: #ffffff;
 div#marcoGris{
 
     
-    height:960px;
+    height:972px;
     width:1%;    
     background-color:#4b4d6f;
     padding: 20px;    
@@ -58,8 +58,6 @@ div#marcoGris{
     position: relative;
     top: -6px;
     left: -20px;
-    
-
     
 }
 
