@@ -62,9 +62,22 @@ div#marcoGris{
 }
 
 
-
-
 /*apartir de aqui solo lo correspondiente a texto*/
+
+#nombre{
+
+    color: rgb(255, 255, 255);
+    font-family: Arial Narrow,Arial,sans-serif;
+    font-size: 35px;
+    text-align: center;
+    line-height: 97%;
+    letter-spacing: 0.1em;
+    
+    
+}
+
+h1 { color: #ff4411;  padding-bottom: 10px; }
+
 
 
 body{
