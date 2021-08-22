@@ -72,9 +72,9 @@ div#marcoGris{
     text-align: center;
     line-height: 97%;
     letter-spacing: 0.1em;
-    /* en fase de prueba la siguiente:*/
-    vertical-align: -20%;
-    
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -23px;
 
 }
 
@@ -84,7 +84,9 @@ div#marcoGris{
     font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 13px;
     text-align:center;
-
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -27px;
     
 }
 
