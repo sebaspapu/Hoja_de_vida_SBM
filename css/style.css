@@ -254,7 +254,30 @@ div#marcoGris{
 /*Apartir de aqui empezamos a agregar la informacion
 del historial academico / Pagina 1 */
 
+#cajaHistorialAcademico{
 
+    height:938px; /*Anteriormente 973*/
+    width:1%;    
+    background-color:#00ff55;
+    /*padding: 30px;*/    
+    min-width: 345px;
+    position: relative;
+    top: -1005px;
+    left: 365px;
+}
+
+
+.estudiosPre{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
 
 
 
