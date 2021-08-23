@@ -258,7 +258,7 @@ del historial academico / Pagina 1 */
 
     height:938px; /*Anteriormente 973*/
     width:1%;    
-    background-color:#00ff55;
+    background-color:#ffffff;
     /*padding: 30px;*/    
     min-width: 345px;
     position: relative;
@@ -266,8 +266,7 @@ del historial academico / Pagina 1 */
     left: 365px;
 }
 
-
-.estudiosPre{
+.estudiosP{
 
     color: #4b4d6f;
     font-family: Georgia, Times, "Times New Roman", serif;
@@ -275,8 +274,273 @@ del historial academico / Pagina 1 */
     text-align:left;
 
     position: relative;
-    top: 0px;
+    top: -2px;
     left: 0px;
+}
+
+.estudios{
+
+    color: #4b4d6f;;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: 2px;
+    left: 0px;
+}
+
+.estudiosInfo{
+
+    color: #4b4d6f;;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -8px;
+    left: 0px;
+}
+
+.estudiosS{
+
+    color: #4b4d6f;;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -14px;
+    left: 0px;
+
+}
+.estudiosInfoS{
+
+    color: #4b4d6f;;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -24px;
+    left: 0px;
+
+}
+
+.estudiosSE{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -28px;
+    left: 0px;
+
+}
+
+.estudiosInfoSE{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -40px;
+    left: 0px;
+
+}
+
+.estudiosPE{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -18px;
+    left: 0px;
+
+}
+
+.estudiosACA{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -18px;
+    left: 0px;
+
+}
+
+.estudiosInfoACA{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -26px;
+    left: 0px;
+
+}
+
+.estudiosSA{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -24px;
+    left: 0px;
+}
+
+.estudiosInfoSA{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -32px;
+    left: 0px;
+
+}
+
+.estudiosL{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -30px;
+    left: 0px;
+}
+
+.estudiosInfoL{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -40px;
+    left: 0px;
+
+}
+
+.estudiosXY{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -34px;
+    left: 0px;
+
+}
+
+.estudiosX{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -30px;
+    left: 0px;
+}
+
+.estudiosInfoX{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -44px;
+    left: 0px;
+
+}
+
+.estudiosY{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -42px;
+    left: 0px;
+}
+
+.estudiosInfoY{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -56px;
+    left: 0px;
+
+}
+
+.estudiosZ{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -58px;
+    left: 0px;
+}
+
+.estudiosInfoZ{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -70px;
+    left: 0px;
+
+}
+
+.estudiosLA{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -24px;
+    left: 0px;
+
 }
 
 
