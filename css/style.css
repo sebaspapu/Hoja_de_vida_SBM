@@ -224,6 +224,34 @@ div#marcoGris{
 }
 
 
+/*Barra Historial academico Pagina 1*/
+
+#barraHistorialAcademico{
+
+    height:34px;
+    width: 345px;    
+    background-color:#4b4d6f;   
+
+    position: relative;
+    top: -1015px;
+    left: 365px;
+
+}
+
+.historialAca{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 10px;
+    left: 17px;
+    
+}
+
+
 
 
 body{
