@@ -64,6 +64,8 @@ div#marcoGris{
 
 /*apartir de aqui solo lo correspondiente a texto*/
 
+/*Parte compartida*/
+
 #nombre{
 
     color: rgb(255, 255, 255);
@@ -102,6 +104,8 @@ div#marcoGris{
 
 }
 
+/* Pagina 1 / Columna 1*/
+
 #tituloPerfilProfesional{
 
     color: rgb(255, 255, 255);
@@ -128,6 +132,8 @@ div#marcoGris{
     top: -30px;
     left: 17px;    
 }
+
+/* Datos compartidos en ambas columnas*/
 
 #tituloHabilidades{
 
@@ -186,6 +192,37 @@ div#marcoGris{
 #link1{
     color: rgb(255, 255, 255);
 }
+
+
+/* Pagina 2 / columna 2 */
+
+#tituloPerfilOcupacional{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -27px;
+    left: 17px;
+}
+
+.parrafoPerfilOcupacional{
+
+    color: rgb(255, 255, 255);
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    text-align:justify;
+    font-size: 13px;
+    width: 88%;; 
+
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -30px;
+    left: 17px;
+
+}
+
 
 
 
