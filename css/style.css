@@ -545,6 +545,35 @@ del historial academico / Pagina 1 */
 
 
 
+/*Barra Experiencia Laboral Pagina 2*/
+
+#barraExperienciaLaboral{
+
+    height:34px;
+    width: 345px;    
+    background-color:#4b4d6f;   
+
+    position: relative;
+    top: -1015px;
+    left: 365px;
+
+}
+
+.ExperienciaLaboral{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 10px;
+    left: 17px;
+    
+}
+
+
+
 body{
     
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d8e0de+0,aebfbc+22,99afab+33,8ea6a2+50,829d98+67,4e5c5a+82,0e0e0e+100;Grey+3D */
