@@ -573,6 +573,83 @@ del historial academico / Pagina 1 */
 }
 
 
+/* Apartir de aqui el texto para exp laboral*/
+
+#cajaExperienciaLaboral{
+
+    height:350px; /*Anteriormente 973*/
+    width:1%;    
+    background-color:#ffffff;
+    /*padding: 30px;*/    
+    min-width: 345px;
+    position: relative;
+    top: -1005px;
+    left: 365px;
+}
+
+.tituloMon{
+
+    color: #4b4d6f;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -2px;
+    left: 0px;
+}
+
+.datosPersonalesx{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+
+    text-align:left;
+    position: relative;
+    top: -8px;
+    left: -24px;
+}
+
+.tituloGestion{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: -7px;
+    left: 0px;
+
+}
+
+.parrafoProyectosPersonales{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -14px;
+    left: 0px;
+
+}
+
+.parrafoContinuacion{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 13px;
+    text-align:left;
+
+    position: relative;
+    top: -18px;
+    left: 0px;
+}
+
+
 
 body{
     
