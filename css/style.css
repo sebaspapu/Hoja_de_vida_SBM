@@ -579,7 +579,7 @@ del historial academico / Pagina 1 */
 
     height:350px; /*Anteriormente 973*/
     width:1%;    
-    background-color:#ffffff;
+    background-color:#00ff22;
     /*padding: 30px;*/    
     min-width: 345px;
     position: relative;
@@ -648,6 +648,160 @@ del historial academico / Pagina 1 */
     top: -18px;
     left: 0px;
 }
+
+/*Barra Referencias personales Pagina 2*/
+
+#barraReferenciasPersonales{
+
+    height:34px;
+    width: 345px;    
+    background-color:#4b4d6f;   
+
+    position: relative;
+    top: -1005px;
+    left: 365px;
+
+}
+
+.ReferenciasPersonales{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 10px;
+    left: 17px;
+    
+}
+
+#cajaReferenciasPersonales{
+
+    height:200px; /*Anteriormente 973*/
+    width:1%;    
+    background-color:#00ff22;
+    /*padding: 30px;*/    
+    min-width: 345px;
+    position: relative;
+    top: -1005px;
+    left: 365px;
+}
+
+/*Texto referencias personales */
+
+.tituloUno{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: 4px;
+    left: 0px;
+}
+
+.parrafoUno{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: -8px;
+    left: 0px;
+}
+
+
+.tituloDos{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: -7px;
+    left: 0px;
+}
+
+.parrafoDos{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: -20px;
+    left: 0px;
+}
+
+.tituloTres{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: -18px;
+    left: 0px;
+}
+
+.parrafoTres{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: -30px;
+    left: 0px;
+}
+
+/*Barra Idiomas Pagina 2*/
+
+#barraIdiomas{
+
+    height:34px;
+    width: 345px;    
+    background-color:#4b4d6f;   
+
+    position: relative;
+    top: -990px;
+    left: 365px;
+
+}
+
+.Idiomas{
+
+    color: rgb(255, 255, 255);
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 10px;
+    left: 17px;
+    
+}
+
+#cajaIdiomas{
+
+    height:200px; /*Anteriormente 973*/
+    width:1%;    
+    background-color:#00ff22;
+    /*padding: 30px;*/    
+    min-width: 345px;
+    position: relative;
+    top: -970px;
+    left: 365px;
+}
+
 
 
 
