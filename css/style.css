@@ -798,8 +798,34 @@ del historial academico / Pagina 1 */
     /*padding: 30px;*/    
     min-width: 345px;
     position: relative;
-    top: -970px;
+    top: -990px;
     left: 365px;
+}
+
+/*Texto Idiomas */
+
+.tituloUnoIn{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: 4px;
+    left: 0px;
+}
+
+.TextoIdiomas{
+
+    color: #4b4d6f;
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    font-size: 14px;
+    text-align:left;
+
+    position: relative;
+    top: 4px;
+    left: 0px;
 }
 
 
