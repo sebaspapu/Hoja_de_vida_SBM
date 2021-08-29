@@ -1,53 +1,165 @@
 <?php ob_start(); ?>
 
-<?php
-/* apartir de aqui empiezo a poner lo que va en el pdf:
-*/
-?>
-
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
     <head>
         <meta charset="UTF-8">
         <title>HOJA DE VIDA</title>
         
         
-        <link rel="stylesheet" href="css/style.css">
+        
         
         
         
     </head>
     <body>
         
-        <div id = "Pagina1">
+        <div id = "Pagina1"  style="
+        border: solid 1px ;
+        padding: 20px;
+        
+        margin: 1% auto;
+        height: 880px;
+        min-width: 400px;
+        position:relative;
+        top: 2px;
+        box-shadow: 0px 0px 5px 1px black;
+        background: #ffffff; ">
             
-            <div id="marcoGris" >
+            <div id="marcoGris" style="
+            
+            height:800px; /*Anteriormente 973*/
+            width:1%;    
+            background-color:#4b4d6f;
+            padding: 20px;    
+            min-width: 284px;
+            position: relative;
+            top: -7px;
+            left: -20px;
+
+            ">
                         
-                <img src="img/Foto.jpg" width="120" hspace="80" height="139.2" vspace="30"'/>                
-                <h1 id="nombre">SEBASTIAN BOLAÑOS MORALES</h1>
-                <p id="titulacion">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
+                <img src="img/Foto.jpg" width="120" hspace="80" height="139.2" vspace="30"'/>      
+
+                <h1 id="nombre" style ="
                 
-                <div id="barraTitulacion"></div>
+                color: rgb(255, 255, 255);
+    
+    font-size: 25px;
+    text-align: center;
+    line-height: 97%;
+    letter-spacing: 0.1em;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: -70px;
+    font-family: Brush Script MT, cursive;
 
-                <p id="tituloPerfilProfesional">PERFIL PROFESIONAL</p>
+                ">SEBASTIAN BOLAÑOS MORALES</h1>
+                <p id="titulacion" style="
+                
+                color: rgb(255, 255, 255);
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-size: 13px;
+    text-align:center;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 29px;
 
-                <p class="parrafoPerfilProfesional">Dentro de mis intereses y actitudes están la responsabilidad y el respeto hacia mis compañeros, y demás personal, además de una excelente facilidad para dominar cualquier tarea que se me asigne. Con lo aprendido en la universidad y mi experiencia laboral en la misma e logrado identificar diferentes estrategias y competencias que me permitirán a nivel ocupacional mejorar cada día, crecer en diferentes áreas, fijar metas personales y laborales con las cuales pueda aportar de manera positiva a las empresas.</p>
+                ">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
+                
+                <div id="barraTitulacion" style="
+                
+                height:2px;
+    width: 250px;    
+    background-color:#ffffff;    
 
-                <p id="tituloHabilidades">HABILIDADES BLANDAS</p>
+    position: relative;
+    top: 50px;
+    left: 17px;
 
-                <ul class="Habilidades">
-                    <li>Adaptabilidad.</li>
-                    <li>Resolución de problemas.</li>
-                    <li>Perseverancia.</li>
-                    <li>Empatía.</li>
-                    <li>Tolerante al estrés.</li>
-                    <li>Trabajo en equipo.</li>
-                    <li>Creatividad e innovación.</li>
-                    <li>Proactividad.</li>
-                    <li>Pensamiento analítico.</li>
-                    <li>Asertividad.</li>
+                "></div>
+
+                <p id="tituloPerfilProfesional" style="
+                
+                color: rgb(255, 255, 255);
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 65px;
+    left: 17px;
+
+                ">PERFIL PROFESIONAL</p>
+
+                <p class="parrafoPerfilProfesional" style="
+                
+                color: rgb(255, 255, 255);
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    text-align:justify;
+    font-size: 13px;
+    width: 88%;; 
+
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 80px;
+    left: 17px;   
+                
+                ">Dentro de mis intereses y actitudes están la responsabilidad y el respeto hacia mis compañeros, y demás personal, además de una excelente facilidad para dominar cualquier tarea que se me asigne. Con lo aprendido en la universidad y mi experiencia laboral en la misma e logrado identificar diferentes estrategias y competencias que me permitirán a nivel ocupacional mejorar cada día, crecer en diferentes áreas, fijar metas personales y laborales con las cuales pueda aportar de manera positiva a las empresas.</p>
+
+                <p id="tituloHabilidades" style="
+                
+                color: rgb(255, 255, 255);
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-size: 13px;
+    text-align:center;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 310px;
+
+                ">HABILIDADES BLANDAS</p>
+
+                <ul class="Habilidades" style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 320px;
+    left: 0px;
+                
+                ">
+                    <li style="">Adaptabilidad.</li><br>
+                    <li>Resolución de problemas.</li><br>
+                    <li>Perseverancia.</li><br>
+                    <li>Empatía.</li><br>
+                    <li>Tolerante al estrés.</li><br>
+                    <li>Trabajo en equipo.</li><br>
+                    <li>Creatividad e innovación.</li><br>
+                    <li>Proactividad.</li><br>
+                    <li>Pensamiento analítico.</li><br>
+                    <li>Asertividad.</li><br>
                 </ul>
 
-                <p id="tituloDatosPersonales">DATOS PERSONALES</p>
+                <p id="tituloDatosPersonales" style="
+                
+                color: rgb(255, 255, 255);
+    font-family: Georgia, Times, Times New Roman, serif;
+    font-size: 13px;
+    text-align:left;
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 300px;
+    left: 17px;
+                
+                ">DATOS PERSONALES</p>
 
                 <ul class="datosPersonales">
                     <b>Documento:</b> 1002948881 Caloto, Cauca<br>
@@ -133,7 +245,21 @@
             
         </div>    
 
-        <div id = "Pagina2">
+
+
+
+        <div id = "Pagina2"
+        style=" 
+        border: solid 1px ;
+        padding: 20px;
+        
+        margin: 1% auto;
+        height: 900px;
+        min-width: 400px;
+        position:relative;
+        top: 4px;
+        box-shadow: 0px 0px 5px 1px black;
+        background: #ffffff; ">
                   
             
             <div id="marcoGris" >
@@ -253,16 +379,6 @@
 
 
 
-
-
-
-
- <?php
-/* apartir de aqui empiezo a poner que genera el pdf:
-*/
-?>
-
-
 <?php
 
 // Enable Debug logging to the /wp-content/debug.log file
@@ -280,9 +396,10 @@ require_once 'dompdf/autoload.inc.php';
 use Dompdf\Dompdf;
 $dompdf = new DOMPDF();
 $dompdf->load_html(ob_get_clean());
+$dompdf->set_Paper(array(0, 0, 595, 841), 'portrait');
 $dompdf->render();
 $pdf = $dompdf->output();
-$filename = "profesionales.pdf";
+$filename = "MI_HOJA_DE_VIDA.pdf";
 file_put_contents($filename, $pdf);
 $dompdf->stream($filename);
 
