@@ -20,15 +20,14 @@ and open the template in the editor.
     <body>
         
         <div id = "Pagina1"  style="
-        border: solid 1px ;
-        padding: 20px;
         
-        margin: 1% auto;
-        height: 880px;
+        
+        
+        height: 880px; /*880*/
         min-width: 400px;
         position:relative;
         top: 2px;
-        box-shadow: 0px 0px 5px 1px black;
+        
         background: #ffffff; ">
             
             <div id="marcoGris" style="
@@ -117,10 +116,11 @@ and open the template in the editor.
                 color: rgb(255, 255, 255);
     font-family: Georgia, Times, Times New Roman, serif;
     font-size: 13px;
-    text-align:center;
+    text-align:left;
     /* Para la posicion en vertical:*/
     position: relative;
-    top: 310px;
+    top: 300px;
+    left: 17px;
 
                 ">HABILIDADES BLANDAS</p>
 
@@ -156,12 +156,27 @@ and open the template in the editor.
     text-align:left;
     /* Para la posicion en vertical:*/
     position: relative;
-    top: 300px;
+    top: 485px;
     left: 17px;
                 
                 ">DATOS PERSONALES</p>
 
-                <ul class="datosPersonales">
+                <ul class="datosPersonales" style="
+                
+                color: rgb(255, 255, 255);
+    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+    text-align:left;
+    font-size: 13px;
+    width: 88%;; 
+
+    /* Para la posicion en vertical:*/
+    position: relative;
+    top: 500px;
+    left: -23px;  
+
+    line-height: 130%
+                
+                ">
                     <b>Documento:</b> 1002948881 Caloto, Cauca<br>
                     <b>Fecha de nacimiento:</b> 15 de Octubre de
                     2000<br>
@@ -169,7 +184,7 @@ and open the template in the editor.
                     Cauca<br>
                     <b>Celular:</b> 301 4412780<br>
                     <b>Correo:</b> sebas_08_200@yahoo.es<br>
-                    <b>Perfil LinkedIn:</b> <a id="link1" href="https://linkedin.com/in/sebas-bolaños-2021">linkedin.com/in/sebas-bolaños-2021</a><br>
+                    <b>Perfil LinkedIn:</b> <a id="link1" style="color: rgb(255, 255, 255);" href="https://linkedin.com/in/sebas-bolaños-2021">linkedin.com/in/sebas-bolaños-2021</a><br>
                 </ul>
 
             </div>
@@ -396,7 +411,7 @@ require_once 'dompdf/autoload.inc.php';
 use Dompdf\Dompdf;
 $dompdf = new DOMPDF();
 $dompdf->load_html(ob_get_clean());
-$dompdf->set_Paper(array(0, 0, 595, 841), 'portrait');
+//$dompdf->set_Paper(array(0, 0, 595, 841), 'portrait');
 $dompdf->render();
 $pdf = $dompdf->output();
 $filename = "MI_HOJA_DE_VIDA.pdf";
