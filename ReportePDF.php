@@ -123,7 +123,7 @@ and open the template in the editor.
 
                 ">
                         
-                <img src="img/Foto.jpg" width="120" hspace="80" height="139.2" vspace="50"'/>      
+                <img src="img/Foto.jpg" width="120" hspace="100" height="139.2" vspace="20"'/>      
 
                 <h1 id="nombre" style ="
                 
@@ -134,7 +134,7 @@ and open the template in the editor.
                 letter-spacing: 0.1em;
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: -90px;
+                top: -20px;
                 font-family: Georgia, Times, Times New Roman, serif;
 
                 ">SEBASTIAN BOLAÑOS MORALES</h1>
@@ -147,7 +147,7 @@ and open the template in the editor.
                 text-align:center;
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: 29px;
+                top: 79px;
 
                 ">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
                 
@@ -158,7 +158,7 @@ and open the template in the editor.
                     background-color:#ffffff;    
 
                     position: relative;
-                    top: 50px;
+                    top: 100px;
                     left: 17px;
 
                 "></div>
@@ -171,7 +171,7 @@ and open the template in the editor.
                 text-align:left;
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: 65px;
+                top: 105px;
                 left: 17px;
 
                 ">PERFIL PROFESIONAL</p>
@@ -186,7 +186,7 @@ and open the template in the editor.
 
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: 80px;
+                top: 130px;
                 left: 17px;   
                 
                 ">Dentro de mis intereses y actitudes están la responsabilidad y el respeto hacia mis compañeros, y demás personal, además de una excelente facilidad para dominar cualquier tarea que se me asigne. Con lo aprendido en la universidad y mi experiencia laboral en la misma e logrado identificar diferentes estrategias y competencias que me permitirán a nivel ocupacional mejorar cada día, crecer en diferentes áreas, fijar metas personales y laborales con las cuales pueda aportar de manera positiva a las empresas.</p>
@@ -199,7 +199,7 @@ and open the template in the editor.
                 text-align:left;
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: 300px;
+                top: 340px;
                 left: 17px;
 
                 ">HABILIDADES BLANDAS</p>
@@ -212,7 +212,7 @@ and open the template in the editor.
                 text-align:left;
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: 320px;
+                top: 360px;
                 left: 0px;
                 
                 ">
@@ -236,7 +236,7 @@ and open the template in the editor.
                 text-align:left;
                 /* Para la posicion en vertical:*/
                 position: relative;
-                top: 485px;
+                top: 535px;
                 left: 17px;
                 
                 ">DATOS PERSONALES</p>
@@ -249,7 +249,7 @@ and open the template in the editor.
                     font-size: 13px;
                     width: 88%;
                     position: relative;
-                    top: 500px;
+                    top: 550px;
                     left: -23px;
                     line-height: 130%
                     
