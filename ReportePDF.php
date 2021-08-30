@@ -12,10 +12,6 @@ and open the template in the editor.
         <title>HOJA DE VIDA</title>
         
         
-        
-        
-        
-        
     </head>
     <body>
         
@@ -588,16 +584,9 @@ and open the template in the editor.
 
 
 
-
             </div>
 
-
-
             </div>
-            
-            
-
-
             
             
         </div>    
@@ -607,22 +596,31 @@ and open the template in the editor.
 
         <div id = "Pagina2"
         style=" 
-        border: solid 0px;
-            padding: 20px;
-            width:     10%;
-            margin: 0 auto;
-            height: -1px; /*LARGO DE LA PAGINA. Anteriormente 1000*/
-            min-width: 700px;
-            position: relative;
-            top: 4px;            
-            box-shadow: 0px 0px 5px 1px black;    
-            background: #ffffff; 
+        height: 910px; /*880*/
+        min-width: 400px;
+        position:relative;
+        top: -50px;
+        margin: 1% auto;
 ">
                   
             
-            <div id="marcoGris" >
+            <div id="marcoGris" 
+            
+            style="
+            border: solid 0px;            
+            height: 920px;
+            
+            background-color:#4b4d6f;
+            padding: 5px; 
+            width: 320px;
+            position: relative;
+            top: 60px;
+            left: 0px;
+            
+            "
+            >
                       
-                <img src="img/Foto.jpg" width="120" hspace="80" height="139.2" vspace="30"'/>                
+                <img src="img/Foto.jpg" width="120" hspace="100" height="139.2" vspace="20"'/>                  
                 <h1 id="nombre">SEBASTIAN BOLAÑOS MORALES</h1>
                 <p id="titulacion">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
 
