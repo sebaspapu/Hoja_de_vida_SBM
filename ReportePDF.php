@@ -621,7 +621,21 @@ and open the template in the editor.
             >
                       
                 <img src="img/Foto.jpg" width="120" hspace="100" height="139.2" vspace="20"'/>                  
-                <h1 id="nombre">SEBASTIAN BOLAÑOS MORALES</h1>
+                <h1 id="nombre"
+                
+                style ="
+                
+                color: rgb(255, 255, 255);    
+                font-size: 30px;
+                text-align: center;
+                line-height: 97%;
+                letter-spacing: 0.1em;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: -20px;
+                font-family: Georgia, Times, Times New Roman, serif;"
+                
+                >SEBASTIAN BOLAÑOS MORALES</h1>
                 <p id="titulacion">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
 
                 <div id="barraTitulacion"></div>
