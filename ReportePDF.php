@@ -254,7 +254,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: 2px;
+                    top: 20px;
                     left: 0px;
                 
                 "
@@ -268,7 +268,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -8px;
+                    top: 50px;
                     left: 0px;
                 "
                 
@@ -276,6 +276,10 @@ and open the template in the editor.
                     En espera de diploma<br>
                     Cali, Valle del Cauca<br>
                 </p>
+
+
+        
+
 
                 <p class="estudiosS"
                 
@@ -286,7 +290,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -14px;
+                    top: 110px;
                     left: 0px;
                 
                 "
@@ -300,7 +304,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -24px;
+                    top: 140px;
                     left: 0px;                
                 "
                 >Del 2012 al 3 de Mayo del 2014<br>
@@ -308,16 +312,18 @@ and open the template in the editor.
                     Santander de Quilichao, Cauca<br>
                 </p>
 
+                       
+
                 <p class="estudiosPE"
                 
                 style="
-                    color: #4b4d6f;
+                    color: #4b4d6f;;
                     font-family: Georgia, Times, Times New Roman, serif;
                     font-size: 13px;
                     text-align:left;
 
                     position: relative;
-                    top: -18px;
+                    top: 200px;
                     left: 0px;                
                 "
 
@@ -326,33 +332,36 @@ and open the template in the editor.
                 <p class="estudiosACA"
                 
                 style="
-                    color: #4b4d6f;
+                    color: #4b4d6f;;
                     font-family: Georgia, Times, Times New Roman, serif;
                     font-size: 13px;
                     text-align:left;
 
                     position: relative;
-                    top: -18px;
+                    top: 215px;
                     left: 0px;
                 "
                 
                 >BACHILLER ACADÉMICO, INSTITUCION EDUCATIVA NUCLEO ESCOLAR RURAL CALOTO</p>
+
+                
                 <p class="estudiosInfoACA"
                 
                 style="
-                    color: #4b4d6f;
+                    color: #4b4d6f;;
                     font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
                     font-size: 13px;
                     text-align:left;
 
                     position: relative;
-                    top: -26px;
+                    top: 245px;
                     left: 0px;                
                 "
                 >Del 2011 al 11 de Diciembre del 2016<br>
                     Graduado<br>
                     Caloto, Cauca<br>
                 </p>
+
 
                 <p class="estudiosPE"
                 
@@ -363,7 +372,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -18px;
+                    top: 305px;
                     left: 0px;                
                 "
                 >CURSOS (SENA)</p>
@@ -372,13 +381,13 @@ and open the template in the editor.
                 
                 
                 style="
-                    color: #4b4d6f;
+                    color: #4b4d6f;;
                     font-family: Georgia, Times, Times New Roman, serif;
                     font-size: 13px;
                     text-align:left;
 
                     position: relative;
-                    top: -18px;
+                    top: 325px;
                     left: 0px;
                 "
                 >COMPLEMENTARIA VIRTUAL EN ENGLISH DOT WORKS BEGINNER - INGLÉS</p>
@@ -391,12 +400,14 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -26px;
+                    top: 355px;
                     left: 0px;                
                 ">60 HORAS - Certificado<br>
                     22 de Junio del 2021<br>
                     Barranquilla, Atlántico<br>
                 </p>
+
+ 
 
                 <p class="estudiosSA"
                 style="
@@ -406,7 +417,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -24px;
+                    top: 410px;
                     left: 0px;
                 
                 ">COMPLEMENTARIA VIRTUAL EN CONTROLES Y SEGURIDAD INFORMATICA</p>
@@ -419,7 +430,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -32px;
+                    top: 440px;
                     left: 0px;
                 
                 "
@@ -437,7 +448,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -24px;
+                    top: 495px;
                     left: 0px;                
                 "
                 >CURSOS (LINKEDIN)</p>
@@ -451,10 +462,11 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -30px;
+                    top: 515px;
                     left: 0px;
                 "
                 >GITHUB PARA PROGRAMADORES</p>
+                
                 <p class="estudiosInfoL"
                 
                 style="
@@ -464,7 +476,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -40px;
+                    top: 530px;
                     left: 0px;
                 
                 "
@@ -482,7 +494,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -34px;
+                    top: 590px;
                     left: 0px;
                 "
                 >LOGROS Y ESTIMULOS ACADÉMICOS</p>
@@ -496,7 +508,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -30px;
+                    top: 610px;
                     left: 0px;
                 
                 ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
@@ -509,7 +521,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -44px;
+                    top: 640px;
                     left: 0px;
                 "
                 >Semestre Agosto-Diciembre 2017<br>
@@ -525,7 +537,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -42px;
+                    top: 675px;
                     left: 0px;
                 
                 "
@@ -539,7 +551,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -56px;
+                    top: 705px;
                     left: 0px;"
                 >Semestre Febrero-Junio 2018<br>
                     Cali, Valle del Cauca<br>
@@ -554,7 +566,7 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -58px;
+                    top: 745px;
                     left: 0px;
                 
                 ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
@@ -567,12 +579,15 @@ and open the template in the editor.
                     text-align:left;
 
                     position: relative;
-                    top: -70px;
+                    top: 775px;
                     left: 0px;                
                 "
                 >Semestre Junio-Octubre 2020<br>
                     Cali, Valle del Cauca<br>
                 </p>
+
+
+
 
             </div>
 
