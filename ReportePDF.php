@@ -29,96 +29,17 @@ and open the template in the editor.
 
             ">
 
-            <div id="barraHistorialAcademico" style="
-
-                height:34px;
-                width: 345px;
-                background-color:#4b4d6f;   
-
-                position: relative;
-                top: 45px;
-                left: 365px;
-                
-                ">
-                <p class="historialAca">HISTORIAL ACADÉMICO</p>                
-            </div>
-            
-            <div id="cajaHistorialAcademico">
-
-                <p class="estudiosP">ESTUDIOS DE PREGRADO</p>
-
-                <p class="estudios">TECNOLOGO EN SISTEMAS DE LA INFORMACIÓN. UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfo">Del 2017 al 2021<br>
-                    En espera de diploma<br>
-                    Cali, Valle del Cauca<br>
-                </p>
-
-                <p class="estudiosS">TECNICO EN SOPORTE DE REDES Y SISTEMAS INFORMATICOS, Intro Progress System Plus Ltda.</p>
-                <p class="estudiosInfoS">Del 2012 al 3 de Mayo del 2014<br>
-                    Graduado<br>
-                    Santander de Quilichao, Cauca<br>
-                </p>
-
-                <p class="estudiosPE">ESTUDIOS SECUNDARIOS</p>
-
-                <p class="estudiosACA">BACHILLER ACADÉMICO, INSTITUCION EDUCATIVA NUCLEO ESCOLAR RURAL CALOTO</p>
-                <p class="estudiosInfoACA">Del 2011 al 11 de Diciembre del 2016<br>
-                    Graduado<br>
-                    Caloto, Cauca<br>
-                </p>
-
-                <p class="estudiosPE">CURSOS (SENA)</p>
-
-                <p class="estudiosACA">COMPLEMENTARIA VIRTUAL EN ENGLISH DOT WORKS BEGINNER - INGLÉS</p>
-                <p class="estudiosInfoACA">60 HORAS - Certificado<br>
-                    22 de Junio del 2021<br>
-                    Barranquilla, Atlántico<br>
-                </p>
-
-                <p class="estudiosSA">COMPLEMENTARIA VIRTUAL EN CONTROLES Y SEGURIDAD INFORMATICA</p>
-                <p class="estudiosInfoSA">40 HORAS - En curso<br>
-                    Agosto del 2021<br>
-                    Ibagué, Tolima<br>
-                </p>
-
-                <p class="estudiosLA">CURSOS (LINKEDIN)</p>
-
-                <p class="estudiosL">GITHUB PARA PROGRAMADORES</p>
-                <p class="estudiosInfoL">1 Hora 53min - Certificado<br>
-                    11 de Junio del 2021<br>
-                    Sunnyvale, CA 94085<br>
-                </p>
-
-                <p class="estudiosXY">LOGROS Y ESTIMULOS ACADÉMICOS</p>
-
-                <p class="estudiosX">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfoX">Semestre Agosto-Diciembre 2017<br>
-                    Cali, Valle del Cauca<br>
-                </p>
-
-                <p class="estudiosY">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfoY">Semestre Febrero-Junio 2018<br>
-                    Cali, Valle del Cauca<br>
-                </p>
-
-                <p class="estudiosZ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfoZ">Semestre Junio-Octubre 2020<br>
-                    Cali, Valle del Cauca<br>
-                </p>
-
-            </div>
-
-
-            
+                        
             <div id="marcoGris" style="
+
+            border: solid 0px;            
+            height: 920px;
             
-            height: 900px; /*Anteriormente 973*/
-            width:10%;    
             background-color:#4b4d6f;
-            padding: 10px; 
-            min-width: 320px;
+            padding: 5px; 
+            width: 320px;
             position: relative;
-            top: -10px;
+            top: 30px;
             left: 0px;
 
                 ">
@@ -263,6 +184,119 @@ and open the template in the editor.
                 </ul>
 
             </div>
+
+
+
+            <div id="barraHistorialAcademico" style="
+
+                height:34px;
+                width: 345px;
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: -900px;
+                left: 365px;
+                
+                ">
+                <p class="historialAca"
+                
+                style= "
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;
+
+                "
+                >HISTORIAL ACADÉMICO</p>
+                
+                <div id="cajaHistorialAcademico"
+
+                style="
+                
+                height: 862px;
+                width:345px;    
+                background-color:#0dc435;
+                  
+               
+                position: relative;
+                top: 40px;
+                left: 0;
+                "            
+            >
+
+                <p class="estudiosP">ESTUDIOS DE PREGRADO</p>
+
+                <p class="estudios">TECNOLOGO EN SISTEMAS DE LA INFORMACIÓN. UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfo">Del 2017 al 2021<br>
+                    En espera de diploma<br>
+                    Cali, Valle del Cauca<br>
+                </p>
+
+                <p class="estudiosS">TECNICO EN SOPORTE DE REDES Y SISTEMAS INFORMATICOS, Intro Progress System Plus Ltda.</p>
+                <p class="estudiosInfoS">Del 2012 al 3 de Mayo del 2014<br>
+                    Graduado<br>
+                    Santander de Quilichao, Cauca<br>
+                </p>
+
+                <p class="estudiosPE">ESTUDIOS SECUNDARIOS</p>
+
+                <p class="estudiosACA">BACHILLER ACADÉMICO, INSTITUCION EDUCATIVA NUCLEO ESCOLAR RURAL CALOTO</p>
+                <p class="estudiosInfoACA">Del 2011 al 11 de Diciembre del 2016<br>
+                    Graduado<br>
+                    Caloto, Cauca<br>
+                </p>
+
+                <p class="estudiosPE">CURSOS (SENA)</p>
+
+                <p class="estudiosACA">COMPLEMENTARIA VIRTUAL EN ENGLISH DOT WORKS BEGINNER - INGLÉS</p>
+                <p class="estudiosInfoACA">60 HORAS - Certificado<br>
+                    22 de Junio del 2021<br>
+                    Barranquilla, Atlántico<br>
+                </p>
+
+                <p class="estudiosSA">COMPLEMENTARIA VIRTUAL EN CONTROLES Y SEGURIDAD INFORMATICA</p>
+                <p class="estudiosInfoSA">40 HORAS - En curso<br>
+                    Agosto del 2021<br>
+                    Ibagué, Tolima<br>
+                </p>
+
+                <p class="estudiosLA">CURSOS (LINKEDIN)</p>
+
+                <p class="estudiosL">GITHUB PARA PROGRAMADORES</p>
+                <p class="estudiosInfoL">1 Hora 53min - Certificado<br>
+                    11 de Junio del 2021<br>
+                    Sunnyvale, CA 94085<br>
+                </p>
+
+                <p class="estudiosXY">LOGROS Y ESTIMULOS ACADÉMICOS</p>
+
+                <p class="estudiosX">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfoX">Semestre Agosto-Diciembre 2017<br>
+                    Cali, Valle del Cauca<br>
+                </p>
+
+                <p class="estudiosY">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfoY">Semestre Febrero-Junio 2018<br>
+                    Cali, Valle del Cauca<br>
+                </p>
+
+                <p class="estudiosZ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfoZ">Semestre Junio-Octubre 2020<br>
+                    Cali, Valle del Cauca<br>
+                </p>
+
+            </div>
+
+
+
+            </div>
+            
+            
+
 
             
             
