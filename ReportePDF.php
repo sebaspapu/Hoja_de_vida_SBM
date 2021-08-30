@@ -39,7 +39,7 @@ and open the template in the editor.
             padding: 5px; 
             width: 320px;
             position: relative;
-            top: 30px;
+            top: 60px;
             left: 0px;
 
                 ">
@@ -194,7 +194,7 @@ and open the template in the editor.
                 background-color:#4b4d6f;   
 
                 position: relative;
-                top: -900px;
+                top: -870px;
                 left: 365px;
                 
                 ">
@@ -217,13 +217,13 @@ and open the template in the editor.
 
                 style="
                 
-                height: 862px;
+                height: 842px;
                 width:345px;    
-                background-color:#0dc435;
+                background-color:#ffffff;
                   
                
                 position: relative;
-                top: 40px;
+                top: 50px;
                 left: 0;
                 "            
             >
