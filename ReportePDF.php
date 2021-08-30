@@ -21,106 +21,105 @@ and open the template in the editor.
         
         <div id = "Pagina1"  style="
         
-        
-        
+            
         height: 880px; /*880*/
         min-width: 400px;
         position:relative;
         top: 2px;
-        
-        background: #ffffff; ">
+
+            ">
             
             <div id="marcoGris" style="
             
-            height:800px; /*Anteriormente 973*/
-            width:1%;    
+            height: 900px; /*Anteriormente 973*/
+            width:10%;    
             background-color:#4b4d6f;
-            padding: 20px;    
-            min-width: 284px;
+            padding: 15px;  
+            min-width: 320px;
             position: relative;
-            top: -7px;
-            left: -20px;
+            top: -10px;
+            left: 0px;
 
-            ">
+                ">
                         
-                <img src="img/Foto.jpg" width="120" hspace="80" height="139.2" vspace="30"'/>      
+                <img src="img/Foto.jpg" width="120" hspace="80" height="139.2" vspace="50"'/>      
 
                 <h1 id="nombre" style ="
                 
-                color: rgb(255, 255, 255);
-    
-    font-size: 25px;
-    text-align: center;
-    line-height: 97%;
-    letter-spacing: 0.1em;
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: -70px;
-    font-family: Brush Script MT, cursive;
+                color: rgb(255, 255, 255);    
+                font-size: 30px;
+                text-align: center;
+                line-height: 97%;
+                letter-spacing: 0.1em;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: -70px;
+                font-family: Brush Script MT, cursive;
 
                 ">SEBASTIAN BOLAÑOS MORALES</h1>
+                
                 <p id="titulacion" style="
                 
                 color: rgb(255, 255, 255);
-    font-family: Georgia, Times, Times New Roman, serif;
-    font-size: 13px;
-    text-align:center;
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 29px;
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:center;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 29px;
 
                 ">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
                 
                 <div id="barraTitulacion" style="
                 
-                height:2px;
-    width: 250px;    
-    background-color:#ffffff;    
+                    height:2px;
+                    width: 250px;    
+                    background-color:#ffffff;    
 
-    position: relative;
-    top: 50px;
-    left: 17px;
+                    position: relative;
+                    top: 50px;
+                    left: 17px;
 
                 "></div>
 
                 <p id="tituloPerfilProfesional" style="
                 
                 color: rgb(255, 255, 255);
-    font-family: Georgia, Times, Times New Roman, serif;
-    font-size: 13px;
-    text-align:left;
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 65px;
-    left: 17px;
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 65px;
+                left: 17px;
 
                 ">PERFIL PROFESIONAL</p>
 
                 <p class="parrafoPerfilProfesional" style="
                 
                 color: rgb(255, 255, 255);
-    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-    text-align:justify;
-    font-size: 13px;
-    width: 88%;; 
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                text-align:justify;
+                font-size: 13px;
+                width: 88%;; 
 
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 80px;
-    left: 17px;   
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 80px;
+                left: 17px;   
                 
                 ">Dentro de mis intereses y actitudes están la responsabilidad y el respeto hacia mis compañeros, y demás personal, además de una excelente facilidad para dominar cualquier tarea que se me asigne. Con lo aprendido en la universidad y mi experiencia laboral en la misma e logrado identificar diferentes estrategias y competencias que me permitirán a nivel ocupacional mejorar cada día, crecer en diferentes áreas, fijar metas personales y laborales con las cuales pueda aportar de manera positiva a las empresas.</p>
 
                 <p id="tituloHabilidades" style="
                 
                 color: rgb(255, 255, 255);
-    font-family: Georgia, Times, Times New Roman, serif;
-    font-size: 13px;
-    text-align:left;
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 300px;
-    left: 17px;
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 300px;
+                left: 17px;
 
                 ">HABILIDADES BLANDAS</p>
 
@@ -129,11 +128,11 @@ and open the template in the editor.
                 color: rgb(255, 255, 255);
                 font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
                 font-size: 13px;
-    text-align:left;
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 320px;
-    left: 0px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 320px;
+                left: 0px;
                 
                 ">
                     <li style="">Adaptabilidad.</li><br>
@@ -151,37 +150,32 @@ and open the template in the editor.
                 <p id="tituloDatosPersonales" style="
                 
                 color: rgb(255, 255, 255);
-    font-family: Georgia, Times, Times New Roman, serif;
-    font-size: 13px;
-    text-align:left;
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 485px;
-    left: 17px;
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 485px;
+                left: 17px;
                 
                 ">DATOS PERSONALES</p>
 
                 <ul class="datosPersonales" style="
                 
-                color: rgb(255, 255, 255);
-    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-    text-align:left;
-    font-size: 13px;
-    width: 88%;; 
-
-    /* Para la posicion en vertical:*/
-    position: relative;
-    top: 500px;
-    left: -23px;  
-
-    line-height: 130%
-                
-                ">
+                    color: rgb(255, 255, 255);
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    text-align:left;
+                    font-size: 13px;
+                    width: 88%;
+                    position: relative;
+                    top: 500px;
+                    left: -23px;
+                    line-height: 130%
+                    
+                    ">
                     <b>Documento:</b> 1002948881 Caloto, Cauca<br>
-                    <b>Fecha de nacimiento:</b> 15 de Octubre de
-                    2000<br>
-                    <b>Dirección actual:</b>Cra 5 #1-319, Caloto
-                    Cauca<br>
+                    <b>Fecha de nacimiento:</b> 15 de Octubre de 2000<br>
+                    <b>Dirección actual:</b>Cra 5 #1-319, Caloto, Cauca<br>
                     <b>Celular:</b> 301 4412780<br>
                     <b>Correo:</b> sebas_08_200@yahoo.es<br>
                     <b>Perfil LinkedIn:</b> <a id="link1" style="color: rgb(255, 255, 255);" href="https://linkedin.com/in/sebas-bolaños-2021">linkedin.com/in/sebas-bolaños-2021</a><br>
@@ -189,7 +183,17 @@ and open the template in the editor.
 
             </div>
 
-            <div id="barraHistorialAcademico">
+            <div id="barraHistorialAcademico" style="
+
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: 10px;
+                left: 365px;
+                
+                ">
                 <p class="historialAca">HISTORIAL ACADÉMICO</p>                
             </div>
             
@@ -254,7 +258,7 @@ and open the template in the editor.
                 <p class="estudiosZ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
                 <p class="estudiosInfoZ">Semestre Junio-Octubre 2020<br>
                     Cali, Valle del Cauca<br>
-            </p>
+                </p>
 
             </div>
             
@@ -265,16 +269,17 @@ and open the template in the editor.
 
         <div id = "Pagina2"
         style=" 
-        border: solid 1px ;
-        padding: 20px;
-        
-        margin: 1% auto;
-        height: 900px;
-        min-width: 400px;
-        position:relative;
-        top: 4px;
-        box-shadow: 0px 0px 5px 1px black;
-        background: #ffffff; ">
+        border: solid 0px;
+            padding: 20px;
+            width:     10%;
+            margin: 0 auto;
+            height: -1px; /*LARGO DE LA PAGINA. Anteriormente 1000*/
+            min-width: 700px;
+            position: relative;
+            top: 4px;            
+            box-shadow: 0px 0px 5px 1px black;    
+            background: #ffffff; 
+">
                   
             
             <div id="marcoGris" >
