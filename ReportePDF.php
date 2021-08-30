@@ -228,64 +228,349 @@ and open the template in the editor.
                 "            
             >
 
-                <p class="estudiosP">ESTUDIOS DE PREGRADO</p>
+                <p class="estudiosP"
+                
+                style="
+                
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
 
-                <p class="estudios">TECNOLOGO EN SISTEMAS DE LA INFORMACIÓN. UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfo">Del 2017 al 2021<br>
+                    position: relative;
+                    top: -2px;
+                    left: 0px;
+                
+                "
+                
+                >ESTUDIOS DE PREGRADO</p>
+
+                <p class="estudios"
+                
+                style="
+                    color: #4b4d6f;;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: 2px;
+                    left: 0px;
+                
+                "
+                >TECNOLOGO EN SISTEMAS DE LA INFORMACIÓN. UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfo"
+                
+                style="
+                    color: #4b4d6f;;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -8px;
+                    left: 0px;
+                "
+                
+                >Del 2017 al 2021<br>
                     En espera de diploma<br>
                     Cali, Valle del Cauca<br>
                 </p>
 
-                <p class="estudiosS">TECNICO EN SOPORTE DE REDES Y SISTEMAS INFORMATICOS, Intro Progress System Plus Ltda.</p>
-                <p class="estudiosInfoS">Del 2012 al 3 de Mayo del 2014<br>
+                <p class="estudiosS"
+                
+                style="
+                    color: #4b4d6f;;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -14px;
+                    left: 0px;
+                
+                "
+                >TECNICO EN SOPORTE DE REDES Y SISTEMAS INFORMATICOS, Intro Progress System Plus Ltda.</p>
+                <p class="estudiosInfoS"
+                
+                style="
+                    color: #4b4d6f;;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -24px;
+                    left: 0px;                
+                "
+                >Del 2012 al 3 de Mayo del 2014<br>
                     Graduado<br>
                     Santander de Quilichao, Cauca<br>
                 </p>
 
-                <p class="estudiosPE">ESTUDIOS SECUNDARIOS</p>
+                <p class="estudiosPE"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
 
-                <p class="estudiosACA">BACHILLER ACADÉMICO, INSTITUCION EDUCATIVA NUCLEO ESCOLAR RURAL CALOTO</p>
-                <p class="estudiosInfoACA">Del 2011 al 11 de Diciembre del 2016<br>
+                    position: relative;
+                    top: -18px;
+                    left: 0px;                
+                "
+
+                >ESTUDIOS SECUNDARIOS</p>
+
+                <p class="estudiosACA"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -18px;
+                    left: 0px;
+                "
+                
+                >BACHILLER ACADÉMICO, INSTITUCION EDUCATIVA NUCLEO ESCOLAR RURAL CALOTO</p>
+                <p class="estudiosInfoACA"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -26px;
+                    left: 0px;                
+                "
+                >Del 2011 al 11 de Diciembre del 2016<br>
                     Graduado<br>
                     Caloto, Cauca<br>
                 </p>
 
-                <p class="estudiosPE">CURSOS (SENA)</p>
+                <p class="estudiosPE"
+                
+                style="                
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
 
-                <p class="estudiosACA">COMPLEMENTARIA VIRTUAL EN ENGLISH DOT WORKS BEGINNER - INGLÉS</p>
-                <p class="estudiosInfoACA">60 HORAS - Certificado<br>
+                    position: relative;
+                    top: -18px;
+                    left: 0px;                
+                "
+                >CURSOS (SENA)</p>
+
+                <p class="estudiosACA"
+                
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -18px;
+                    left: 0px;
+                "
+                >COMPLEMENTARIA VIRTUAL EN ENGLISH DOT WORKS BEGINNER - INGLÉS</p>
+                <p class="estudiosInfoACA"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -26px;
+                    left: 0px;                
+                ">60 HORAS - Certificado<br>
                     22 de Junio del 2021<br>
                     Barranquilla, Atlántico<br>
                 </p>
 
-                <p class="estudiosSA">COMPLEMENTARIA VIRTUAL EN CONTROLES Y SEGURIDAD INFORMATICA</p>
-                <p class="estudiosInfoSA">40 HORAS - En curso<br>
+                <p class="estudiosSA"
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -24px;
+                    left: 0px;
+                
+                ">COMPLEMENTARIA VIRTUAL EN CONTROLES Y SEGURIDAD INFORMATICA</p>
+                <p class="estudiosInfoSA"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -32px;
+                    left: 0px;
+                
+                "
+                >40 HORAS - En curso<br>
                     Agosto del 2021<br>
                     Ibagué, Tolima<br>
                 </p>
 
-                <p class="estudiosLA">CURSOS (LINKEDIN)</p>
+                <p class="estudiosLA"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
 
-                <p class="estudiosL">GITHUB PARA PROGRAMADORES</p>
-                <p class="estudiosInfoL">1 Hora 53min - Certificado<br>
+                    position: relative;
+                    top: -24px;
+                    left: 0px;                
+                "
+                >CURSOS (LINKEDIN)</p>
+
+                <p class="estudiosL"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -30px;
+                    left: 0px;
+                "
+                >GITHUB PARA PROGRAMADORES</p>
+                <p class="estudiosInfoL"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -40px;
+                    left: 0px;
+                
+                "
+                >1 Hora 53min - Certificado<br>
                     11 de Junio del 2021<br>
                     Sunnyvale, CA 94085<br>
                 </p>
 
-                <p class="estudiosXY">LOGROS Y ESTIMULOS ACADÉMICOS</p>
+                <p class="estudiosXY"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
 
-                <p class="estudiosX">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfoX">Semestre Agosto-Diciembre 2017<br>
+                    position: relative;
+                    top: -34px;
+                    left: 0px;
+                "
+                >LOGROS Y ESTIMULOS ACADÉMICOS</p>
+
+                <p class="estudiosX"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -30px;
+                    left: 0px;
+                
+                ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfoX"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -44px;
+                    left: 0px;
+                "
+                >Semestre Agosto-Diciembre 2017<br>
                     Cali, Valle del Cauca<br>
                 </p>
 
-                <p class="estudiosY">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfoY">Semestre Febrero-Junio 2018<br>
+                <p class="estudiosY"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -42px;
+                    left: 0px;
+                
+                "
+                >ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfoY"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -56px;
+                    left: 0px;"
+                >Semestre Febrero-Junio 2018<br>
                     Cali, Valle del Cauca<br>
                 </p>
 
-                <p class="estudiosZ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
-                <p class="estudiosInfoZ">Semestre Junio-Octubre 2020<br>
+                <p class="estudiosZ"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Georgia, Times, Times New Roman, serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -58px;
+                    left: 0px;
+                
+                ">ESTIMULO POR BUEN DESEMPEÑO ACADÉMICO UNIVERSIDAD DEL VALLE</p>
+                <p class="estudiosInfoZ"
+                
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 13px;
+                    text-align:left;
+
+                    position: relative;
+                    top: -70px;
+                    left: 0px;                
+                "
+                >Semestre Junio-Octubre 2020<br>
                     Cali, Valle del Cauca<br>
                 </p>
 
