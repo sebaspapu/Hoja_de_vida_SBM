@@ -601,20 +601,36 @@ and open the template in the editor.
         position:relative;
         top: -50px;
         margin: 1% auto;
-">
+            ">
                   
+                  <div id="barraExperienciaLaboral"
+            style="
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: 50px;
+                left: 365px;
+            "
             
+            >
+                <p class="ExperienciaLaboral">EXPERIENCIA LABORAL</p>                
+            </div>
+
+
+
             <div id="marcoGris" 
             
             style="
-            border: solid 0px;            
+            border: solid -5px;            
             height: 920px;
             
             background-color:#4b4d6f;
             padding: 5px; 
             width: 320px;
             position: relative;
-            top: 60px;
+            top: 0px; /*60*/
             left: 0px;
             
             "
@@ -772,10 +788,8 @@ and open the template in the editor.
 
             </div>
 
-            <div id="barraExperienciaLaboral">
-                <p class="ExperienciaLaboral">EXPERIENCIA LABORAL</p>                
-            </div>
-           
+            
+<!--         
             <div id="cajaExperienciaLaboral">
 
                 <p class="tituloMon">MONITOR GESTIÓN TECNOLOGICA</p>
@@ -836,7 +850,7 @@ and open the template in the editor.
                     <b>Lugar Apredzaje:</b> Universidad del Valle</p>
                 
             </div>
-
+-->
 
         </div>   
 
