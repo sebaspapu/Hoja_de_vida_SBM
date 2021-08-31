@@ -603,6 +603,9 @@ and open the template in the editor.
         margin: 1% auto;
             ">
                   
+
+<!-- Apartir de aqui todo lo de la segunda columna. xd -->
+
                   <div id="barraExperienciaLaboral"
             style="
                 height:34px;
@@ -610,24 +613,149 @@ and open the template in the editor.
                 background-color:#4b4d6f;   
 
                 position: relative;
-                top: 50px;
+                top: 60px;
                 left: 365px;
             "
             
             >
-                <p class="ExperienciaLaboral">EXPERIENCIA LABORAL</p>                
+                <p class="ExperienciaLaboral"
+                style="
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;"
+                
+                >EXPERIENCIA LABORAL</p>                
+            </div>
+
+
+            <div id="cajaExperienciaLaboral"
+            
+            style="
+                height: 350px;
+                width:345px;    
+                background-color:#2AFF00;                  
+               
+                position: relative;
+                top: 60px;
+                left: 365px;
+            
+            "
+            >
+
+                <p class="tituloMon"
+                style="
+                color: #4b4d6f;
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: -2px;
+                left: 0px;
+                
+                "
+                
+                >MONITOR GESTIÓN TECNOLOGICA</p>
+
+                <ul class="datosPersonalesx"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+
+                text-align:left;
+                position: relative;
+                top: 20px;
+                left: -24px;"
+                >
+                    Universidad del Valle – Sede Norte del Cauca.<br>
+                    <li><b>Funciones:</b> Brindar soporte de carácter tecnológico, en materia de conectividad a estudiantes y profesorado de la Universidad del Valle.</li>
+                    
+                </ul>
+                
+                <ul class="datosPersonalesx"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+
+                text-align:left;
+                position: relative;
+                top: 100px;
+                left: -24px;"
+                >
+                    <li><b>Jefe Inmediato:</b> Paula Andrea Figueroa Polanco</li><br>
+                    <li><b>Dirección:</b> Carrera 13 No. 19 - 231 Vía Cali-Popayán Santander de Quilichao, Colombia</li><br>
+                    <br>
+                    <li><b>Ofic. Académica:</b> 57 2 8298718</li><br>
+                    <li><b>Tiempo laborado:</b> Junio a Octubre del 2020</li>
+                </ul>
+
+
+                <p class="tituloGestion"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 190px;
+                left: 0px;
+                "
+                
+                ><b>Proyectos personales (Freelance)</b></p>
+
+
+                <p class="parrafoProyectosPersonales"
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 12px;
+                    text-align:left;
+
+                    position: relative;
+                    top: 210px;
+                    left: 0px;
+                "
+                
+                >He realizado diversos proyectos con el lenguaje JAVA, en donde destaco un sistema de asignación de citas para una EPS y haciendo uso del IDE Android Studio desarrolle una app que permite detectar y trazar rutas a establecimientos de comidas rápidas previamente registrados. Por otro lado, también he realizado pequeños proyectos con PHP, HTML Y CSS.</p>
+                    <p class="parrafoContinuacion"
+                    style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 12px;
+                    text-align:left;
+
+                    position: relative;
+                    top: 305px;
+                    left: 0px;
+                    "
+
+                    >Todos estos proyectos los pueden encontrar en mis repositorios de GitHub: <a id="link2" href="https://github.com/sebaspapu">https://github.com/sebaspapu</a>
+                    </p>
+
             </div>
 
 
 
+
+
+<!-- Apartir de aqui todo lo de la primera columna. xd -->
+
             <div id="marcoGris" 
             
             style="
-            border: solid -5px;            
+            border: solid -1px;            /* se debe cambiar al finalizar los cambios columna 2*/
             height: 920px;
             
             background-color:#4b4d6f;
-            padding: 5px; 
+            padding: 1px;                   /* se debe cambiar al finalizar los cambios columna 2*/
             width: 320px;
             position: relative;
             top: 0px; /*60*/
@@ -790,27 +918,7 @@ and open the template in the editor.
 
             
 <!--         
-            <div id="cajaExperienciaLaboral">
-
-                <p class="tituloMon">MONITOR GESTIÓN TECNOLOGICA</p>
-
-                <ul class="datosPersonalesx">
-                    Universidad del Valle – Sede Norte del Cauca.<br>
-                    <li><b>Funciones:</b> Brindar soporte de carácter tecnológico, en materia de conectividad a estudiantes y profesorado de la Universidad del Valle.<br></li>
-                    <li><b>Jefe Inmediato:</b> Paula Andrea Figueroa Polanco<br></li>
-                    <li><b>Dirección:</b> Carrera 13 No. 19 - 231 Vía Cali-Popayán<br></li>
-                    Santander de Quilichao, Colombia<br>
-                    <li><b>Ofic. Académica:</b> 57 2 8298718<br></li>
-                    <li><b>Tiempo laborado:</b> Junio a Octubre del 2020<br></li>
-                </ul>
-
-                <p class="tituloGestion"><b>Proyectos personales (Freelance)</b></p>
-
-                <p class="parrafoProyectosPersonales">He realizado diversos proyectos con el lenguaje JAVA, en donde destaco un sistema de asignación de citas para una EPS y haciendo uso del IDE Android Studio desarrolle una app que permite detectar y trazar rutas a establecimientos de comidas rápidas previamente registrados. Por otro lado, también he realizado pequeños proyectos con PHP, HTML Y CSS.</p>
-                    <p class="parrafoContinuacion">Todos estos proyectos los pueden encontrar en mis repositorios de GitHub: <a id="link2" href="https://github.com/sebaspapu">https://github.com/sebaspapu</a>
-                    </p>
-
-            </div>
+            
 
             <div id="barraReferenciasPersonales">
                 <p class="ReferenciasPersonales">REFERENCIAS PERSONALES</p>                
