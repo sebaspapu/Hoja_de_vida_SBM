@@ -743,6 +743,136 @@ and open the template in the editor.
             </div>
 
 
+            <div id="barraReferenciasPersonales"
+            
+            style="
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: 60px;
+                left: 365px;
+            "
+            >
+                <p class="ReferenciasPersonales"
+                
+                style="
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;"
+
+                >REFERENCIAS PERSONALES</p>                
+            </div>
+
+
+            <div id="cajaReferenciasPersonales"
+            style="
+                height: 200px;
+                width:345px;    
+                background-color:#2AFF00;                  
+               
+                position: relative;
+                top: 60px;
+                left: 365px;
+            
+            "
+            >
+                
+                <p class="tituloUno"
+                
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 4px;
+                left: 0px;
+                
+                "
+                ><b>Jorge Deison Arias Mina</b></p>
+                <p class="parrafoUno"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: 20px;
+                left: 0px;"
+                
+                >Trabajador Bienestar Familiar<br>
+                    Celular: 3058605100<br>
+                </p>
+            
+                <p class="tituloDos"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 70px;
+                left: 0px;
+                
+                "
+                
+                ><b>Luis Carlos Bedoya</b></p>
+                <p class="parrafoDos"
+
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: 85px;
+                left: 0px;"
+
+                >Trabajadora Independiente<br>
+                    Celular: 3137878398<br>
+                </p>
+
+                <p class="tituloTres"
+                
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 135px;
+                left: 0px;
+                
+                "
+                ><b>Mario Daza</b></p>
+                <p class="parrafoTres"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: 150px;
+                left: 0px;"
+                
+                >Trabajador Empresa Carvajal<br>
+                    Celular: 3164075271<br>
+                </p>
+                
+            </div>
 
 
 
@@ -920,28 +1050,7 @@ and open the template in the editor.
 <!--         
             
 
-            <div id="barraReferenciasPersonales">
-                <p class="ReferenciasPersonales">REFERENCIAS PERSONALES</p>                
-            </div>
-
-            <div id="cajaReferenciasPersonales">
-                
-                <p class="tituloUno"><b>Jorge Deison Arias Mina</b></p>
-                <p class="parrafoUno">Trabajador Bienestar Familiar<br>
-                    Celular: 3058605100<br>
-                </p>
             
-                <p class="tituloDos"><b>Luis Carlos Bedoya</b></p>
-                <p class="parrafoDos">Trabajadora Independiente<br>
-                    Celular: 3137878398<br>
-                </p>
-
-                <p class="tituloTres"><b>Mario Daza</b></p>
-                <p class="parrafoTres">Trabajador Empresa Carvajal<br>
-                    Celular: 3164075271<br>
-                </p>
-                
-            </div>
 
             <div id="barraIdiomas">
                 <p class="Idiomas">IDIOMAS</p>                
