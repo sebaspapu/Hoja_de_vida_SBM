@@ -133,7 +133,7 @@ and open the template in the editor.
                 left: 0px;
                 
                 ">
-                    <li style="">Adaptabilidad.</li><br>
+                    <li >Adaptabilidad.</li><br>
                     <li>Resolución de problemas.</li><br>
                     <li>Perseverancia.</li><br>
                     <li>Empatía.</li><br>
@@ -636,40 +636,137 @@ and open the template in the editor.
                 font-family: Georgia, Times, Times New Roman, serif;"
                 
                 >SEBASTIAN BOLAÑOS MORALES</h1>
-                <p id="titulacion">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
+                <p id="titulacion"
+                style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:center;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 79px;
 
-                <div id="barraTitulacion"></div>
+                ">Tnlgo. SISTEMAS DE LA INFORMACIÓN</p>
 
-                <p id="tituloPerfilOcupacional">PERFIL OCUPACIONAL</p>
+                <div id="barraTitulacion"
+                style="
+                
+                    height:2px;
+                    width: 250px;    
+                    background-color:#ffffff;    
 
-                <p class="parrafoPerfilOcupacional">Cuento con conocimientos en programación (POO) Java, Y conocimientos en lenguajes como, C++, PHP, Python y software de control de versiones Git/GitHub. Poseo conocimientos en Bases de Datos (Lenguaje SQL) y en Administración de Servidores (Microsoft Windows Server, Linux/CentOS). También cuento con la facultad para desempeñarme en área de soporte y mantenimiento de PCs. Actualmente continúo profundizando y aprendiendo con el fin de agilizar y optimizar procesos en pro del desarrollo en conjunto.</p>
+                    position: relative;
+                    top: 100px;
+                    left: 17px;
 
-                <p id="tituloHabilidades">HABILIDADES BLANDAS</p>
+                "></div>
 
-                <ul class="Habilidades">
-                    <li>Adaptabilidad.</li>
-                    <li>Resolución de problemas.</li>
-                    <li>Perseverancia.</li>
-                    <li>Empatía.</li>
-                    <li>Tolerante al estrés.</li>
-                    <li>Trabajo en equipo.</li>
-                    <li>Creatividad e innovación.</li>
-                    <li>Proactividad.</li>
-                    <li>Pensamiento analítico.</li>
-                    <li>Asertividad.</li>
+                <p id="tituloPerfilOcupacional"
+                style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 105px;
+                left: 17px;
+
+                ">PERFIL OCUPACIONAL</p>
+
+                <p class="parrafoPerfilOcupacional"
+                style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                text-align:justify;
+                font-size: 13px;
+                width: 88%;; 
+
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 130px;
+                left: 17px;   
+                
+                ">Cuento con conocimientos en programación (POO) Java, Y conocimientos en lenguajes como, C++, PHP, Python y software de control de versiones Git/GitHub. Poseo conocimientos en Bases de Datos (Lenguaje SQL) y en Administración de Servidores (Microsoft Windows Server, Linux/CentOS). También cuento con la facultad para desempeñarme en área de soporte y mantenimiento de PCs. Actualmente continúo profundizando y aprendiendo con el fin de agilizar y optimizar procesos en pro del desarrollo en conjunto.</p>
+
+                <p id="tituloHabilidades"
+                style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 340px;
+                left: 17px;
+
+                ">HABILIDADES BLANDAS</p>
+
+                <ul class="Habilidades"
+                style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 360px;
+                left: 0px;
+                
+                "
+                >
+                    <li >Adaptabilidad.</li><br>
+                    <li>Resolución de problemas.</li><br>
+                    <li>Perseverancia.</li><br>
+                    <li>Empatía.</li><br>
+                    <li>Tolerante al estrés.</li><br>
+                    <li>Trabajo en equipo.</li><br>
+                    <li>Creatividad e innovación.</li><br>
+                    <li>Proactividad.</li><br>
+                    <li>Pensamiento analítico.</li><br>
+                    <li>Asertividad.</li><br>
                 </ul>
 
-                <p id="tituloDatosPersonales">DATOS PERSONALES</p>
+                <p id="tituloDatosPersonales"
+                style="
+                
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 535px;
+                left: 17px;
+                
+                ">DATOS PERSONALES</p>
 
-                <ul class="datosPersonales">
+                <ul class="datosPersonales"
+                style="
+                
+                    color: rgb(255, 255, 255);
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    text-align:left;
+                    font-size: 13px;
+                    width: 88%;
+                    position: relative;
+                    top: 550px;
+                    left: -23px;
+                    line-height: 130%
+                    
+                    "
+                >
                     <b>Documento:</b> 1002948881 Caloto, Cauca<br>
-                    <b>Fecha de nacimiento:</b> 15 de Octubre de
-                    2000<br>
-                    <b>Dirección actual:</b>Cra 5 #1-319, Caloto
-                    Cauca<br>
+                    <b>Fecha de nacimiento:</b> 15 de Octubre de 2000<br>
+                    <b>Dirección actual:</b>Cra 5 #1-319, Caloto, Cauca<br>
                     <b>Celular:</b> 301 4412780<br>
                     <b>Correo:</b> sebas_08_200@yahoo.es<br>
-                    <b>Perfil LinkedIn:</b> <a id="link1" href="https://linkedin.com/in/sebas-bolaños-2021">linkedin.com/in/sebas-bolaños-2021</a><br>
+                    <b>Perfil LinkedIn:</b> <a id="link1" style="color: rgb(255, 255, 255);" href="https://linkedin.com/in/sebas-bolaños-2021">linkedin.com/in/sebas-bolaños-2021</a><br>
                 </ul>
 
 
