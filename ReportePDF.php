@@ -660,7 +660,7 @@ and open the template in the editor.
                 
                 "
                 
-                >MONITOR GESTIÓN TECNOLOGICA</p>
+                ><b>MONITOR GESTIÓN TECNOLOGICA</b></p>
 
                 <ul class="datosPersonalesx"
                 style="
@@ -773,7 +773,7 @@ and open the template in the editor.
 
             <div id="cajaReferenciasPersonales"
             style="
-                height: 200px;
+                height: 195px;
                 width:345px;    
                 background-color:#2AFF00;                  
                
@@ -871,6 +871,84 @@ and open the template in the editor.
                 >Trabajador Empresa Carvajal<br>
                     Celular: 3164075271<br>
                 </p>
+                
+            </div>
+
+
+            <div id="barraIdiomas"
+            
+            style="
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: 60px;
+                left: 365px;
+            "
+            >
+                <p class="Idiomas"
+                style="
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;
+                "
+                
+                >IDIOMAS</p>                
+            </div>
+
+            <div id="cajaIdiomas"
+            
+            style="
+                height: 120px;
+                width:345px;    
+                background-color:#2AFF00;                  
+               
+                position: relative;
+                top: 60px;
+                left: 365px;
+            
+            "
+            
+            >
+
+                <p class="tituloUnoIn"
+                
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 4px;
+                left: 0px;
+                "
+                
+                ><b>INGLES</b></p>
+
+                <p class="TextoIdiomas"
+
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 25px;
+                left: 0px;"
+                
+                ><b>Habla:</b> Principiante (A2)<br>
+                    <b>Escribe:</b> Principiante (A2)<br>
+                    <b>Lee:</b> Intermedio (B1)<br>
+                    <b>Entiende:</b> Intermedio (B1)<br>
+                    <b>Lugar Apredzaje:</b> Universidad del Valle</p>
                 
             </div>
 
@@ -1045,29 +1123,7 @@ and open the template in the editor.
 
 
             </div>
-
             
-<!--         
-            
-
-            
-
-            <div id="barraIdiomas">
-                <p class="Idiomas">IDIOMAS</p>                
-            </div>
-
-            <div id="cajaIdiomas">
-
-                <p class="tituloUnoIn"><b>INGLES</b></p>
-
-                <p class="TextoIdiomas"><b>Habla:</b> Principiante (A2)<br>
-                    <b>Escribe:</b> Principiante (A2)<br>
-                    <b>Lee:</b> Intermedio (B1)<br>
-                    <b>Entiende:</b> Intermedio (B1)<br>
-                    <b>Lugar Apredzaje:</b> Universidad del Valle</p>
-                
-            </div>
--->
 
         </div>   
 
