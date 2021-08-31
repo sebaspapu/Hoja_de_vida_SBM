@@ -603,10 +603,9 @@ and open the template in the editor.
         margin: 1% auto;
             ">
                   
-
 <!-- Apartir de aqui todo lo de la segunda columna. xd -->
 
-                  <div id="barraExperienciaLaboral"
+<div id="barraExperienciaLaboral"
             style="
                 height:34px;
                 width: 345px;    
@@ -952,21 +951,19 @@ and open the template in the editor.
                 
             </div>
 
-
-
 <!-- Apartir de aqui todo lo de la primera columna. xd -->
 
             <div id="marcoGris" 
             
             style="
-            border: solid -1px;            /* se debe cambiar al finalizar los cambios columna 2*/
+            border: solid 0px;            
             height: 920px;
             
             background-color:#4b4d6f;
-            padding: 1px;                   /* se debe cambiar al finalizar los cambios columna 2*/
+            padding: 5px; 
             width: 320px;
             position: relative;
-            top: 0px; /*60*/
+            top: 60px;
             left: 0px;
             
             "
