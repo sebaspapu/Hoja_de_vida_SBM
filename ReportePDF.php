@@ -605,352 +605,6 @@ and open the template in the editor.
                   
 <!-- Apartir de aqui todo lo de la segunda columna. xd -->
 
-<div id="barraExperienciaLaboral"
-            style="
-                height:34px;
-                width: 345px;    
-                background-color:#4b4d6f;   
-
-                position: relative;
-                top: 60px;
-                left: 365px;
-            "
-            
-            >
-                <p class="ExperienciaLaboral"
-                style="
-                color: rgb(255, 255, 255);
-                font-family: Georgia, Times, Times New Roman, serif;
-                font-size: 13px;
-                text-align:left;
-                /* Para la posicion en vertical:*/
-                position: relative;
-                top: 10px;
-                left: 17px;"
-                
-                >EXPERIENCIA LABORAL</p>                
-            </div>
-
-
-            <div id="cajaExperienciaLaboral"
-            
-            style="
-                height: 350px;
-                width:345px;    
-                background-color:#2AFF00;                  
-               
-                position: relative;
-                top: 60px;
-                left: 365px;
-            
-            "
-            >
-
-                <p class="tituloMon"
-                style="
-                color: #4b4d6f;
-                font-family: Georgia, Times, Times New Roman, serif;
-                font-size: 13px;
-                text-align:left;
-
-                position: relative;
-                top: -2px;
-                left: 0px;
-                
-                "
-                
-                ><b>MONITOR GESTIÓN TECNOLOGICA</b></p>
-
-                <ul class="datosPersonalesx"
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 13px;
-
-                text-align:left;
-                position: relative;
-                top: 20px;
-                left: -24px;"
-                >
-                    Universidad del Valle – Sede Norte del Cauca.<br>
-                    <li><b>Funciones:</b> Brindar soporte de carácter tecnológico, en materia de conectividad a estudiantes y profesorado de la Universidad del Valle.</li>
-                    
-                </ul>
-                
-                <ul class="datosPersonalesx"
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 13px;
-
-                text-align:left;
-                position: relative;
-                top: 100px;
-                left: -24px;"
-                >
-                    <li><b>Jefe Inmediato:</b> Paula Andrea Figueroa Polanco</li><br>
-                    <li><b>Dirección:</b> Carrera 13 No. 19 - 231 Vía Cali-Popayán Santander de Quilichao, Colombia</li><br>
-                    <br>
-                    <li><b>Ofic. Académica:</b> 57 2 8298718</li><br>
-                    <li><b>Tiempo laborado:</b> Junio a Octubre del 2020</li>
-                </ul>
-
-
-                <p class="tituloGestion"
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 14px;
-                text-align:left;
-
-                position: relative;
-                top: 190px;
-                left: 0px;
-                "
-                
-                ><b>Proyectos personales (Freelance)</b></p>
-
-
-                <p class="parrafoProyectosPersonales"
-                style="
-                    color: #4b4d6f;
-                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                    font-size: 12px;
-                    text-align:left;
-
-                    position: relative;
-                    top: 210px;
-                    left: 0px;
-                "
-                
-                >He realizado diversos proyectos con el lenguaje JAVA, en donde destaco un sistema de asignación de citas para una EPS y haciendo uso del IDE Android Studio desarrolle una app que permite detectar y trazar rutas a establecimientos de comidas rápidas previamente registrados. Por otro lado, también he realizado pequeños proyectos con PHP, HTML Y CSS.</p>
-                    <p class="parrafoContinuacion"
-                    style="
-                    color: #4b4d6f;
-                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                    font-size: 12px;
-                    text-align:left;
-
-                    position: relative;
-                    top: 305px;
-                    left: 0px;
-                    "
-
-                    >Todos estos proyectos los pueden encontrar en mis repositorios de GitHub: <a id="link2" href="https://github.com/sebaspapu">https://github.com/sebaspapu</a>
-                    </p>
-
-            </div>
-
-
-            <div id="barraReferenciasPersonales"
-            
-            style="
-                height:34px;
-                width: 345px;    
-                background-color:#4b4d6f;   
-
-                position: relative;
-                top: 60px;
-                left: 365px;
-            "
-            >
-                <p class="ReferenciasPersonales"
-                
-                style="
-                color: rgb(255, 255, 255);
-                font-family: Georgia, Times, Times New Roman, serif;
-                font-size: 13px;
-                text-align:left;
-                /* Para la posicion en vertical:*/
-                position: relative;
-                top: 10px;
-                left: 17px;"
-
-                >REFERENCIAS PERSONALES</p>                
-            </div>
-
-
-            <div id="cajaReferenciasPersonales"
-            style="
-                height: 195px;
-                width:345px;    
-                background-color:#2AFF00;                  
-               
-                position: relative;
-                top: 60px;
-                left: 365px;
-            
-            "
-            >
-                
-                <p class="tituloUno"
-                
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 14px;
-                text-align:left;
-
-                position: relative;
-                top: 4px;
-                left: 0px;
-                
-                "
-                ><b>Jorge Deison Arias Mina</b></p>
-                <p class="parrafoUno"
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 13px;
-                text-align:left;
-
-                position: relative;
-                top: 20px;
-                left: 0px;"
-                
-                >Trabajador Bienestar Familiar<br>
-                    Celular: 3058605100<br>
-                </p>
-            
-                <p class="tituloDos"
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 14px;
-                text-align:left;
-
-                position: relative;
-                top: 70px;
-                left: 0px;
-                
-                "
-                
-                ><b>Luis Carlos Bedoya</b></p>
-                <p class="parrafoDos"
-
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 13px;
-                text-align:left;
-
-                position: relative;
-                top: 85px;
-                left: 0px;"
-
-                >Trabajadora Independiente<br>
-                    Celular: 3137878398<br>
-                </p>
-
-                <p class="tituloTres"
-                
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 14px;
-                text-align:left;
-
-                position: relative;
-                top: 135px;
-                left: 0px;
-                
-                "
-                ><b>Mario Daza</b></p>
-                <p class="parrafoTres"
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 13px;
-                text-align:left;
-
-                position: relative;
-                top: 150px;
-                left: 0px;"
-                
-                >Trabajador Empresa Carvajal<br>
-                    Celular: 3164075271<br>
-                </p>
-                
-            </div>
-
-
-            <div id="barraIdiomas"
-            
-            style="
-                height:34px;
-                width: 345px;    
-                background-color:#4b4d6f;   
-
-                position: relative;
-                top: 60px;
-                left: 365px;
-            "
-            >
-                <p class="Idiomas"
-                style="
-                color: rgb(255, 255, 255);
-                font-family: Georgia, Times, Times New Roman, serif;
-                font-size: 13px;
-                text-align:left;
-                /* Para la posicion en vertical:*/
-                position: relative;
-                top: 10px;
-                left: 17px;
-                "
-                
-                >IDIOMAS</p>                
-            </div>
-
-            <div id="cajaIdiomas"
-            
-            style="
-                height: 120px;
-                width:345px;    
-                background-color:#2AFF00;                  
-               
-                position: relative;
-                top: 60px;
-                left: 365px;
-            
-            "
-            
-            >
-
-                <p class="tituloUnoIn"
-                
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 14px;
-                text-align:left;
-
-                position: relative;
-                top: 4px;
-                left: 0px;
-                "
-                
-                ><b>INGLES</b></p>
-
-                <p class="TextoIdiomas"
-
-                style="
-                color: #4b4d6f;
-                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
-                font-size: 14px;
-                text-align:left;
-
-                position: relative;
-                top: 25px;
-                left: 0px;"
-                
-                ><b>Habla:</b> Principiante (A2)<br>
-                    <b>Escribe:</b> Principiante (A2)<br>
-                    <b>Lee:</b> Intermedio (B1)<br>
-                    <b>Entiende:</b> Intermedio (B1)<br>
-                    <b>Lugar Apredzaje:</b> Universidad del Valle</p>
-                
-            </div>
-
 <!-- Apartir de aqui todo lo de la primera columna. xd -->
 
             <div id="marcoGris" 
@@ -1119,6 +773,355 @@ and open the template in the editor.
                 </ul>
 
 
+<!-- Apartir de aqui todo lo de la segunda columna 2. xd -->            
+
+<div id="barraExperienciaLaboral"
+            style="
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: -200px;
+                left: 365px;
+            "
+            
+            >
+                <p class="ExperienciaLaboral"
+                style="
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;"
+                
+                >EXPERIENCIA LABORAL</p>                
+            </div>
+
+
+            <div id="cajaExperienciaLaboral"
+            
+            style="
+                height: 350px;
+                width:345px;    
+                background-color:#2AFF00;                  
+               
+                position: relative;
+                top: -200px;
+                left: 365px;
+            
+            "
+            >
+
+                <p class="tituloMon"
+                style="
+                color: #4b4d6f;
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: -2px;
+                left: 0px;
+                
+                "
+                
+                ><b>MONITOR GESTIÓN TECNOLOGICA</b></p>
+
+                <ul class="datosPersonalesx"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+
+                text-align:left;
+                position: relative;
+                top: 20px;
+                left: -24px;"
+                >
+                    Universidad del Valle – Sede Norte del Cauca.<br>
+                    <li><b>Funciones:</b> Brindar soporte de carácter tecnológico, en materia de conectividad a estudiantes y profesorado de la Universidad del Valle.</li>
+                    
+                </ul>
+                
+                <ul class="datosPersonalesx"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+
+                text-align:left;
+                position: relative;
+                top: 100px;
+                left: -24px;"
+                >
+                    <li><b>Jefe Inmediato:</b> Paula Andrea Figueroa Polanco</li><br>
+                    <li><b>Dirección:</b> Carrera 13 No. 19 - 231 Vía Cali-Popayán Santander de Quilichao, Colombia</li><br>
+                    <br>
+                    <li><b>Ofic. Académica:</b> 57 2 8298718</li><br>
+                    <li><b>Tiempo laborado:</b> Junio a Octubre del 2020</li>
+                </ul>
+
+
+                <p class="tituloGestion"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 190px;
+                left: 0px;
+                "
+                
+                ><b>Proyectos personales (Freelance)</b></p>
+
+
+                <p class="parrafoProyectosPersonales"
+                style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 12px;
+                    text-align:left;
+
+                    position: relative;
+                    top: 210px;
+                    left: 0px;
+                "
+                
+                >He realizado diversos proyectos con el lenguaje JAVA, en donde destaco un sistema de asignación de citas para una EPS y haciendo uso del IDE Android Studio desarrolle una app que permite detectar y trazar rutas a establecimientos de comidas rápidas previamente registrados. Por otro lado, también he realizado pequeños proyectos con PHP, HTML Y CSS.</p>
+                    <p class="parrafoContinuacion"
+                    style="
+                    color: #4b4d6f;
+                    font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                    font-size: 12px;
+                    text-align:left;
+
+                    position: relative;
+                    top: 305px;
+                    left: 0px;
+                    "
+
+                    >Todos estos proyectos los pueden encontrar en mis repositorios de GitHub: <a id="link2" href="https://github.com/sebaspapu">https://github.com/sebaspapu</a>
+                    </p>
+
+            </div>
+
+
+            <div id="barraReferenciasPersonales"
+            
+            style="
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: -200px;
+                left: 365px;
+            "
+            >
+                <p class="ReferenciasPersonales"
+                
+                style="
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;"
+
+                >REFERENCIAS PERSONALES</p>                
+            </div>
+
+
+            <div id="cajaReferenciasPersonales"
+            style="
+                height: 195px;
+                width:345px;    
+                background-color:#2AFF00;                  
+               
+                position: relative;
+                top: -200px;
+                left: 365px;
+            
+            "
+            >
+                
+                <p class="tituloUno"
+                
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 4px;
+                left: 0px;
+                
+                "
+                ><b>Jorge Deison Arias Mina</b></p>
+                <p class="parrafoUno"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: 20px;
+                left: 0px;"
+                
+                >Trabajador Bienestar Familiar<br>
+                    Celular: 3058605100<br>
+                </p>
+            
+                <p class="tituloDos"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 70px;
+                left: 0px;
+                
+                "
+                
+                ><b>Luis Carlos Bedoya</b></p>
+                <p class="parrafoDos"
+
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: 85px;
+                left: 0px;"
+
+                >Trabajadora Independiente<br>
+                    Celular: 3137878398<br>
+                </p>
+
+                <p class="tituloTres"
+                
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 135px;
+                left: 0px;
+                
+                "
+                ><b>Mario Daza</b></p>
+                <p class="parrafoTres"
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 13px;
+                text-align:left;
+
+                position: relative;
+                top: 150px;
+                left: 0px;"
+                
+                >Trabajador Empresa Carvajal<br>
+                    Celular: 3164075271<br>
+                </p>
+                
+                <div id="barraIdiomas"
+            
+            style="
+                height:34px;
+                width: 345px;    
+                background-color:#4b4d6f;   
+
+                position: relative;
+                top: 210px;
+                left: 0px;
+            "
+            >
+                <p class="Idiomas"
+                style="
+                color: rgb(255, 255, 255);
+                font-family: Georgia, Times, Times New Roman, serif;
+                font-size: 13px;
+                text-align:left;
+                /* Para la posicion en vertical:*/
+                position: relative;
+                top: 10px;
+                left: 17px;
+                "
+                
+                >IDIOMAS</p>                
+            </div>
+
+            <div id="cajaIdiomas"
+            
+            style="
+                height: 120px;
+                width:345px;    
+                background-color:#2AFF00;                  
+               
+                position: relative;
+                top: 210px;
+                left: 0px;
+            
+            "
+            
+            >
+
+                <p class="tituloUnoIn"
+                
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 4px;
+                left: 0px;
+                "
+                
+                ><b>INGLES</b></p>
+
+                <p class="TextoIdiomas"
+
+                style="
+                color: #4b4d6f;
+                font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+                font-size: 14px;
+                text-align:left;
+
+                position: relative;
+                top: 25px;
+                left: 0px;"
+                
+                ><b>Habla:</b> Principiante (A2)<br>
+                    <b>Escribe:</b> Principiante (A2)<br>
+                    <b>Lee:</b> Intermedio (B1)<br>
+                    <b>Entiende:</b> Intermedio (B1)<br>
+                    <b>Lugar Apredzaje:</b> Universidad del Valle</p>
+                
+            </div>
+
+
+            </div>
+
+            
             </div>
             
 
