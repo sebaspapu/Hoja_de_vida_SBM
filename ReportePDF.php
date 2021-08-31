@@ -603,7 +603,6 @@ and open the template in the editor.
         margin: 1% auto;
             ">
                   
-<!-- Apartir de aqui todo lo de la segunda columna. xd -->
 
 <!-- Apartir de aqui todo lo de la primera columna. xd -->
 
@@ -807,7 +806,7 @@ and open the template in the editor.
             style="
                 height: 350px;
                 width:345px;    
-                background-color:#2AFF00;                  
+                background-color:#ffffff;                  
                
                 position: relative;
                 top: -200px;
@@ -944,7 +943,7 @@ and open the template in the editor.
             style="
                 height: 195px;
                 width:345px;    
-                background-color:#2AFF00;                  
+                background-color:#ffffff;                  
                
                 position: relative;
                 top: -200px;
@@ -1073,7 +1072,7 @@ and open the template in the editor.
             style="
                 height: 120px;
                 width:345px;    
-                background-color:#2AFF00;                  
+                background-color:#ffffff;                  
                
                 position: relative;
                 top: 210px;
